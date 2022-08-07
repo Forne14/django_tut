@@ -1,0 +1,14 @@
+li a {
+    color: green;
+    text-align: end;
+}
+
+h1{
+    size: 72px;
+    color: brown;
+}
+
+body {
+    background: white url('images/background.png') no-repeat;
+    background-position: center;
+}
